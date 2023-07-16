@@ -1,5 +1,5 @@
-//go:build linux || freebsd || openbsd || netbsd || darwin || solaris || illumos || dragonfly
-// +build linux freebsd openbsd netbsd darwin solaris illumos dragonfly
+//go:build linux || freebsd || openbsd || netbsd || darwin || solaris || illumos || dragonfly || inno
+// +build linux freebsd openbsd netbsd darwin solaris illumos dragonfly inno
 
 package client // import "github.com/docker/docker/client"
 
